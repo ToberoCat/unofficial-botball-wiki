@@ -7,7 +7,7 @@ const config = {
     tagline: 'A collection of Robotics related knowledge',
     favicon: 'img/favicon.ico',
 
-    url: 'https://your-docusaurus-site.example.com',
+    url: 'https://toberocat.github.io/unofficial-botball-wiki/',
     baseUrl: '/unofficial-botball-wiki/',
 
     organizationName: 'htlstp-ecer',
@@ -27,7 +27,7 @@ const config = {
             {
                 docs: {
                     sidebarPath: './sidebars.ts',
-                    editUrl: 'https://github.com/htl-stp-ecer/Wiki/',
+                    editUrl: 'https://github.com/ToberoCat/unofficial-botball-wiki',
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
                 },
@@ -119,7 +119,7 @@ const config = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/htl-stp-ecer',
+                            href: 'https://github.com/ToberoCat/unofficial-botball-wiki',
                         },
                     ],
                 },
