@@ -105,7 +105,7 @@ const config = {
                     position: 'left',
                 },
                 {
-                    href: 'https://github.com/htl-stp-ecer',
+                    href: 'https://github.com/ToberoCat/unofficial-botball-wiki',
                     label: 'GitHub',
                     position: 'right',
                 },
