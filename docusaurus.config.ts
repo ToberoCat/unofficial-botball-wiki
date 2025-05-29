@@ -7,8 +7,8 @@ const config = {
     tagline: 'A collection of Robotics related knowledge',
     favicon: 'img/favicon.ico',
 
-    url: 'https://toberocat.github.io/unofficial-botball-wiki/',
-    baseUrl: '/unofficial-botball-wiki',
+    url: 'https://toberocat.github.io',
+    baseUrl: '/unofficial-botball-wiki/',
 
     organizationName: 'htlstp-ecer',
     projectName: 'Robotics',
