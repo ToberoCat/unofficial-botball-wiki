@@ -1,0 +1,3 @@
+[submodule "Create3/irobot-create3-docs"]
+	path = Create3/irobot-create3-docs
+	url = https://github.com/iRobotEducation/create3_docs

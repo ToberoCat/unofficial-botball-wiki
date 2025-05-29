@@ -1,0 +1,8 @@
+{
+  "label": "Inertial Measurement Unit",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of knowledge about IMU related stuff"
+  }
+}

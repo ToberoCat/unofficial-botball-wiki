@@ -1,0 +1,8 @@
+{
+  "label": "Sensors & Actuators",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of knowledge about different sensors and actuators"
+  }
+}
