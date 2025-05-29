@@ -27,7 +27,7 @@ const config = {
             {
                 docs: {
                     sidebarPath: './sidebars.ts',
-                    editUrl: 'https://github.com/ToberoCat/unofficial-botball-wiki',
+                    editUrl: 'https://github.com/ToberoCat/unofficial-botball-wiki/blob/main/',
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
                 },
