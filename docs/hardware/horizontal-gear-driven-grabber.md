@@ -12,7 +12,8 @@ sidebar_label: Gear-Driven Grabber
 
 ### Resources
 
-<a href="/hardware/horizontal_gear_driven_grabber/designer/">Lego Blueprint</a> for detailed virtual assembly instructions
+- <a href="/hardware/horizontal_gear_driven_grabber/designer/">Lego Blueprint</a> for detailed virtual assembly instructions
+- [Paper](/documents/grabbers_and_software_for_botball.pdf) for the original content
 
 ## Core Concept
 

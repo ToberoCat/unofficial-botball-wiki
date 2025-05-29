@@ -7,7 +7,8 @@ sidebar_label: Gravity Grabber
 ![Gravity Grabber 3D Model](/hardware/gravity_grabber/0.png)
 
 ### Resources
-<a href="/hardware/gravity_grabber/designer/">Lego Blueprint</a> for detailed virtual assembly instructions.
+- <a href="/hardware/gravity_grabber/designer/">Lego Blueprint</a> for detailed virtual assembly instructions.
+- [Paper](/documents/grabbers_and_software_for_botball.pdf) for the original content
 
 ## Core Idea
 
