@@ -8,7 +8,7 @@ const config = {
     favicon: 'img/favicon.ico',
 
     url: 'https://toberocat.github.io/unofficial-botball-wiki/',
-    baseUrl: '/unofficial-botball-wiki/',
+    baseUrl: '/unofficial-botball-wiki',
 
     organizationName: 'htlstp-ecer',
     projectName: 'Robotics',
