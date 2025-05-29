@@ -6,6 +6,10 @@ sidebar_label: Two-Part Arm
 
 ![Two-Part Rotating Arm](/hardware/two-part-rotating-arm.jpg)
 
+## Resources
+
+- [Paper](/documents/Converting_Rotational_Motion_to_Vertical_Motion.pdf)
+
 ## Core Idea
 
 The two-part rotating arm employs two beams connected via an articulated "elbow" joint, each controlled independently.

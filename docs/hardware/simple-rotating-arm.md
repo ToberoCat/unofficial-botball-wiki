@@ -6,6 +6,10 @@ sidebar_label: Simple Rotating Arm
 
 ![Simple Rotating Arm](/hardware/simple-rotating-arm.jpg)
 
+## Resources
+
+- [Paper](/documents/Converting_Rotational_Motion_to_Vertical_Motion.pdf)
+
 ## Core Idea
 
 The simple rotating arm consists of a single beam attached to a motor or servo at a fixed pivot point. Vertical movement

@@ -6,6 +6,10 @@ sidebar_label: Shifting Parallelogram
 
 ![Shifting Parallelogram Lift](/hardware/shifting-parallelogram.jpg)
 
+## Resources
+
+- [Paper](/documents/Converting_Rotational_Motion_to_Vertical_Motion.pdf)
+
 ## Core Idea
 
 The shifting parallelogram lift employs two parallel beams of equal length connected at pivot points to form a four-bar

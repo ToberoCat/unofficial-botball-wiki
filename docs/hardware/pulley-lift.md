@@ -6,6 +6,10 @@ sidebar_label: Pulley Lift
 
 ![Pulley Lift](/hardware/pulley-lift.jpg)
 
+## Resources
+
+- [Paper](/documents/Converting_Rotational_Motion_to_Vertical_Motion.pdf)
+
 ## Core Idea
 
 A pulley lift consists of a rail-mounted cart that moves linearly, controlled by a string wound around a winch.

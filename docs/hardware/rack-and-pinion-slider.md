@@ -6,6 +6,10 @@ sidebar_label: Rack & Pinion
 
 ![Rack-and-Pinion Slider](/hardware/rack-and-pinion-slider.jpg)
 
+## Resources
+
+- [Paper](/documents/Converting_Rotational_Motion_to_Vertical_Motion.pdf)
+
 ## Core Idea
 
 The rack-and-pinion slider utilizes a linear gear track (the "rack") and a rotating gear (the "pinion"). A motor
